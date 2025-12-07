@@ -55,29 +55,13 @@ Track, manage, and analyze your job applications with ease.
 ## 📸 Screenshots
 
 **Login Page**  
-![Login Page](./screenshots/login.png)  
+"C:\Users\Dheeraj Reddy\Downloads\LOGIN.png"
 
 **Applications Table**  
-![Applications Table](./screenshots/applications.png)  
+"C:\Users\Dheeraj Reddy\Downloads\APPLICATION TABLE.png"
 
 **Dashboard Summary**  
-![Dashboard Summary](./screenshots/dashboard.png)  
+"C:\Users\Dheeraj Reddy\Downloads\DASHBOARD.png"
 
-> Replace `./screenshots/...` with the actual path to your images in the repo.
 
----
-
-## 🔗 Deployment
-
-(Optional) - Hosted on **Vercel**:  
-[View Live Project](<your-vercel-link>)  
-
----
-
-## ✔ Submission
-
-- **GitHub Repo Link**  
-- **README** (this file)  
-- **Screenshots**  
-- (Optional) **Vercel Deployment Link**
 
